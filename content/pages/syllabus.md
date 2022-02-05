@@ -69,10 +69,39 @@ Grading
 
 The course grade will be based on three quizzes and five problem sets. There is no final exam.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Three quizzes | 90 |
-| Average score of four best problem sets | 10 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+90
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Average score of four best problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 There will be no re-grades on problem sets, so if there is a minor mistake in the grade you receive, the four best out of five rules should be sufficient.
 
