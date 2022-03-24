@@ -10,16 +10,16 @@ uid: f49a0f7f-30ec-5513-00d8-4a6d75c46f45
 
 [Financial Crisis and Our Models (PDF)]({{< baseurl >}}/resources/mit14_02s14_finanic_crisis)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Introduction and the IS-LM Model (PDF)]({{< baseurl >}}/resources/mit14_02s14_is-lm_model)
+[Introduction and the IS-LM Model (PDF)]({{< baseurl >}}/resources/mit14_02s14_is-lm_model)
 
 [Explaining C. Romer Numbers (PDF)]({{< baseurl >}}/resources/mit14_02s14_roomer_num)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Medium Run (PDF)]({{< baseurl >}}/resources/mit14_02s14_med_run)
+[Medium Run (PDF)]({{< baseurl >}}/resources/mit14_02s14_med_run)
 
 [U.S. Trade Balance and Current Account in 2009 (PDF)]({{< baseurl >}}/resources/mit14_02s14_current_account)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Fiscal Policy (PDF)]({{< baseurl >}}/resources/mit14_02s14_fiscal_policy)
+[Fiscal Policy (PDF)]({{< baseurl >}}/resources/mit14_02s14_fiscal_policy)
 
 [Time Inconsistency and the Inflation Bias (PDF)]({{< baseurl >}}/resources/mit14_02s14_time_incon)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Crisis: Where Are We? (PDF)]({{< baseurl >}}/resources/mit14_02s14_fin_crisis)
+[The Crisis: Where Are We? (PDF)]({{< baseurl >}}/resources/mit14_02s14_fin_crisis)
